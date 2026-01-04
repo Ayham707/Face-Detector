@@ -1,0 +1,34 @@
+C:/Users/ayham/Face-Detector/dataset/positive/01.jpg 1 1053 1416 912 1076
+C:/Users/ayham/Face-Detector/dataset/positive/01_bg.jpg 1 1110 1446 1012 1453
+C:/Users/ayham/Face-Detector/dataset/positive/01_grp.jpg 3 665 988 850 951 1862 994 561 780 2663 1122 551 753
+C:/Users/ayham/Face-Detector/dataset/positive/02.jpg 1 711 1509 1083 983
+C:/Users/ayham/Face-Detector/dataset/positive/02_bg.jpg 1 1139 1382 1032 1403
+C:/Users/ayham/Face-Detector/dataset/positive/02_grp.jpg 3 644 1042 764 855 1803 1004 513 743 2626 1095 561 732
+C:/Users/ayham/Face-Detector/dataset/positive/03.jpg 1 1260 1559 648 883
+C:/Users/ayham/Face-Detector/dataset/positive/03_bg.jpg 1 968 1496 1018 1204
+C:/Users/ayham/Face-Detector/dataset/positive/04.jpg 1 1217 1644 705 855
+C:/Users/ayham/Face-Detector/dataset/positive/04_bg.jpg 1 1224 1332 1090 1411
+C:/Users/ayham/Face-Detector/dataset/positive/04_grp.jpg 3 526 1212 796 897 2006 1158 593 567 3000 1254 588 706
+C:/Users/ayham/Face-Detector/dataset/positive/05.jpg 1 1231 1616 734 926
+C:/Users/ayham/Face-Detector/dataset/positive/05_grp.jpg 3 98 1687 684 762 1431 1594 562 648 2285 1730 492 505
+C:/Users/ayham/Face-Detector/dataset/positive/06.jpg 1 1345 1708 463 656
+C:/Users/ayham/Face-Detector/dataset/positive/06_bg.jpg 1 1139 1480 747 1161
+C:/Users/ayham/Face-Detector/dataset/positive/06_grp.jpg 3 6 1673 734 662 1488 1559 534 513 2357 1708 377 477
+C:/Users/ayham/Face-Detector/dataset/positive/07_bg.jpg 1 1010 1345 941 1339
+C:/Users/ayham/Face-Detector/dataset/positive/07_grp.jpg 4 148 1708 520 527 889 1715 342 406 1566 1680 499 584 2257 1722 541 663
+C:/Users/ayham/Face-Detector/dataset/positive/08_grp.jpg 4 312 1594 392 527 903 1544 399 463 1559 1601 463 478 2264 1694 420 484
+C:/Users/ayham/Face-Detector/dataset/positive/09_bg.jpg 1 1167 1523 776 1090
+C:/Users/ayham/Face-Detector/dataset/positive/09_grp.jpg 4 191 1779 499 577 854 1708 391 477 1602 1730 420 541 2364 1815 456 663
+C:/Users/ayham/Face-Detector/dataset/positive/10_bg.jpg 1 1124 1566 1062 1018
+C:/Users/ayham/Face-Detector/dataset/positive/11_bg.jpg 1 1153 1523 805 1061
+C:/Users/ayham/Face-Detector/dataset/positive/12_bg.jpg 1 647 1480 691 990
+C:/Users/ayham/Face-Detector/dataset/positive/13_bg.jpg 1 683 1516 691 954
+C:/Users/ayham/Face-Detector/dataset/positive/14_bg.jpg 1 711 1359 990 1489
+C:/Users/ayham/Face-Detector/dataset/positive/15_bg.jpg 1 1025 1359 833 1361
+C:/Users/ayham/Face-Detector/dataset/positive/16_bg.jpg 1 911 1231 1004 1610
+C:/Users/ayham/Face-Detector/dataset/positive/17_bg.jpg 1 1053 1274 969 1510
+C:/Users/ayham/Face-Detector/dataset/positive/18_bg.jpg 1 1195 1416 834 1282
+C:/Users/ayham/Face-Detector/dataset/positive/19_bg.jpg 1 1295 1416 827 1282
+C:/Users/ayham/Face-Detector/dataset/positive/20_bg.jpg 1 1110 1459 969 1125
+C:/Users/ayham/Face-Detector/dataset/positive/21_bg.jpg 1 1053 1352 940 1175
+C:/Users/ayham/Face-Detector/dataset/positive/22_bg.jpg 1 1039 1452 912 1310

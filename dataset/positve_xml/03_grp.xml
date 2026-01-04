@@ -1,0 +1,16 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>03_grp.jpg</filename>
+	<path>/my-project-name/03_grp.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+
+
+
+</annotation>
