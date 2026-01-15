@@ -8,7 +8,7 @@ def ends_with(string, suffixes):
     return any(string.endswith(s.lower()) for s in suffixes)
 
 # --- Load your trained Viola-Jones cascade ---
-cascade_path = r"C:\Users\ayham\Face-Detector\haarcascade_frontalface_default.xml"
+cascade_path = r"C:\Users\ayham\Face-Detector\classifier\cascade.xml"
 face_cascade = cv2.CascadeClassifier(cascade_path)
 
 if face_cascade.empty():
@@ -19,7 +19,7 @@ if face_cascade.empty():
 folder = r"C:\Users\ayham\Face-Detector\dataset\test"
 
 # --- Function to filter overlapping detections (Non-Maximum Suppression) ---
-def non_max_suppression(boxes, overlap_thresh=0.):  # REDUCED from 0.3
+def non_max_suppression(boxes, overlap_thresh=0.1):  # REDUCED from 0.3
     """
     Remove overlapping bounding boxes, keeping only the best ones
     """
@@ -125,7 +125,7 @@ for filename in os.listdir(folder):
     faces = face_cascade.detectMultiScale(
         gray,
         scaleFactor=1.1,        # INCREASED from 1.05 - larger steps, faster but less sensitive
-        minNeighbors=15
+        minNeighbors=1
         ,        # INCREASED from 10 - much stricter (try 12-20)
         flags=cv2.CASCADE_SCALE_IMAGE,
         minSize=(40, 40),       # INCREASED minimum size
